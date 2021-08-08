@@ -18,10 +18,28 @@
 
 ## Install
 ### DHCP
+For DHCP Installation
+```
+# yum install dhcp
+# systemctl enable dhcpd
+# systemctl start dhcpd
+```
 
 ### TFTP
+For TFTP Installation
+```
+# yum install tftp
+# systemctl enable tftp
+# systemctl start tftp
+```
 
 ### HTTPD
+For HTTP Installation
+```
+# yum install httpd
+# systemctl enable httpd
+# systemctl start httpd
+```
 
 ## Configure
 ### DHCP
