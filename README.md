@@ -7,11 +7,27 @@
   * [DHCP](#dhcp)
   * [TFTP](#tftp)
   * [HTTPD](#httpd)
-  
 - [Configure](#Configure)
-  * [Setup DCHP](#Setup DCHP)
-  * [Setup TFTP](#Setup TFTP)
-  * [Setup HTTPD](#Setup HTTPD)
-
+  * [DCHP](#SetupDCHP)
+  * [TFTP](#SetupTFTP)
+  * [HTTPD](#SetupHTTPD)
 - [Contributing](#contributing)
 <!-- tocstop -->
+
+## About
+
+## Install
+### DHCP
+
+### TFTP
+
+### HTTPD
+
+## Configure
+### DHCP
+
+### TFTP
+
+### HTTPD
+
+## Contributing
